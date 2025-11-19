@@ -374,7 +374,7 @@ spring.datasource.password=sua_senha
 1. Clonar o repositório:
 
    ```bash
-   git clone https://github.com/<seu-usuario>/gs2025-soa-evolvewell.git
+   git clone https://github.com/miguelmpp/gs2025-soa-evolvewell.git
    cd gs2025-soa-evolvewell
    ```
 
